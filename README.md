@@ -1,4 +1,4 @@
-<img width="720" height="720" alt="LAB 3 pic" src="https://github.com/user-attachments/assets/69cf6e2f-735e-4f6a-a82f-d4e825337fc0" />
+
 <img width="1572" height="745" alt="TASK 5 Part2" src="https://github.com/user-attachments/assets/2a933057-2313-49ec-b4d3-5dcf50cf78e7" />
 <img width="1570" height="499" alt="TASK 5 Part1" src="https://github.com/user-attachments/assets/ac7c8a52-5d9e-40f8-9008-6d10f4aec86c" />
 <img width="928" height="697" alt="TASK 4 part5" src="https://github.com/user-attachments/assets/001d1372-21ae-4d2e-9062-fcc06731b1df" />
