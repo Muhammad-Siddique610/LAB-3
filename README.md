@@ -1,6 +1,10 @@
 TASK 1
 Profile setup
  <img width="400" height="539" alt="TASK 1" src="https://github.com/user-attachments/assets/c6fbec60-d1ff-42d0-9502-1057fc5c63a6" />
+
+TASK 2
+<img width="1894" height="579" alt="TASK 2" src="https://github.com/user-attachments/assets/777ad0ef-17c3-473b-9a17-903318521dcc" />
+
 <img width="1572" height="745" alt="TASK 5 Part2" src="https://github.com/user-attachments/assets/2a933057-2313-49ec-b4d3-5dcf50cf78e7" />
 <img width="1570" height="499" alt="TASK 5 Part1" src="https://github.com/user-attachments/assets/ac7c8a52-5d9e-40f8-9008-6d10f4aec86c" />
 <img width="928" height="697" alt="TASK 4 part5" src="https://github.com/user-attachments/assets/001d1372-21ae-4d2e-9062-fcc06731b1df" />
