@@ -2,15 +2,16 @@
 
 int main()
 {
-    int a = 24;
-    int b = 30;
+    int variable1 = 24;
+    int variable2 = 30;
     
 	printf("The Numbers initially are %d and %d\n",a, b );
 	
-	a = a+b;
-	b = a-b;
-	a = a-b;
+	variable1 = variable1 + variable2;
+	variable2 = variable1-variable2;
+	variable1 = variable1-variable2;
 	
     
-    printf("The Numbers are swapped %d and %d\n", a, b );
+    printf("The Numbers are swapped %d and %d\n", variable1, variable2 );
 }
+
